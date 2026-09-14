@@ -1,0 +1,362 @@
+---
+---
+
+// ---------------------------------------------------------------------------
+// Palette & type
+// ---------------------------------------------------------------------------
+
+$paper:        #f7f2e7;   // warm off-white page background
+$paper-report: #efece4;   // slightly cooler/greyer paper for the report sheet
+$ink:          #2a251e;   // near-black, warm
+$ink-soft:     #55503f;   // secondary text
+$muted:        #948c76;   // labels, rules, nav
+$rule:         #ded5bd;   // hairlines / borders
+$accent:       #7a5c3e;   // links, hover states — muted sepia brown
+
+$serif: 'Crimson Pro', Georgia, 'Iowan Old Style', 'Palatino Linotype', serif;
+$mono:  'IBM Plex Mono', 'SFMono-Regular', Consolas, 'Courier New', monospace;
+
+// ---------------------------------------------------------------------------
+// Reset-ish basics
+// ---------------------------------------------------------------------------
+
+* { box-sizing: border-box; }
+
+html {
+  background: $paper;
+}
+
+body {
+  margin: 0;
+  background: $paper;
+  color: $ink;
+  font-family: $serif;
+  font-size: 1.15rem;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: $accent;
+  text-decoration-color: rgba($accent, 0.4);
+  text-underline-offset: 0.15em;
+
+  &:hover { text-decoration-color: $accent; }
+}
+
+// ---------------------------------------------------------------------------
+// Header / footer chrome
+// ---------------------------------------------------------------------------
+
+.site-header {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 1rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  border-bottom: 1px solid $rule;
+}
+
+.site-title {
+  font-family: $serif;
+  font-weight: 600;
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $ink;
+  text-decoration: none;
+}
+
+.site-subtitle {
+  font-style: italic;
+  color: $muted;
+  font-size: 0.95rem;
+}
+
+.site-footer {
+  max-width: 720px;
+  margin: 4rem auto 2rem;
+  padding: 1.5rem 1.5rem 0;
+  border-top: 1px solid $rule;
+  color: $muted;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+main {
+  min-height: 60vh;
+}
+
+// ---------------------------------------------------------------------------
+// Home page / table of contents
+// ---------------------------------------------------------------------------
+
+.home {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 2rem;
+}
+
+.home-title {
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.15;
+  margin: 0 0 0.4rem;
+}
+
+.home-subtitle {
+  font-style: italic;
+  color: $ink-soft;
+  font-size: 1.2rem;
+  margin: 0 0 2rem;
+}
+
+.home-graphic {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0.5rem 0 2rem;
+  border: 1px solid $rule;
+}
+
+.home-blurb {
+  color: $ink-soft;
+  max-width: 60ch;
+
+  p { margin: 0 0 1.1em; }
+}
+
+.home-reading-time {
+  margin: 0.75rem 0 0;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $muted;
+}
+
+.home-cta {
+  margin: 1.75rem 0 0.5rem;
+}
+
+.cta-link {
+  display: inline-block;
+  padding: 0.65rem 1.4rem;
+  border: 1px solid $ink;
+  border-radius: 2px;
+  color: $ink;
+  text-decoration: none;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+
+  &:hover {
+    background: $ink;
+    color: $paper;
+  }
+}
+
+.toc-heading {
+  margin-top: 3rem;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: $muted;
+  border-bottom: 1px solid $rule;
+  padding-bottom: 0.6rem;
+}
+
+.toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px dotted $rule;
+}
+
+.toc-number {
+  font-family: $mono;
+  font-size: 0.8rem;
+  color: $muted;
+  width: 1.6rem;
+  flex: none;
+}
+
+.toc-list a {
+  color: $ink;
+  text-decoration: none;
+  flex: 1;
+
+  &:hover { color: $accent; }
+}
+
+// ---------------------------------------------------------------------------
+// Chapter chrome (shared)
+// ---------------------------------------------------------------------------
+
+.chapter {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3.5rem 1.5rem 1rem;
+}
+
+.chapter-label {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.8rem;
+  color: $muted;
+  margin: 0 0 0.5rem;
+}
+
+.chapter-title {
+  text-align: center;
+  font-size: 1.9rem;
+  font-weight: 600;
+  margin: 0 0 2.75rem;
+  line-height: 1.3;
+}
+
+// ---------------------------------------------------------------------------
+// Prose chapters — the "book" feel
+// ---------------------------------------------------------------------------
+
+.chapter-body {
+  font-size: 1.15rem;
+
+  p {
+    margin: 0 0 1.3em;
+    text-indent: 0;
+  }
+
+  em { color: $ink-soft; }
+
+  strong { font-weight: 600; }
+
+  blockquote {
+    margin: 1.4em 0 1.4em 0;
+    padding-left: 1.2em;
+    border-left: 2px solid $rule;
+    font-style: italic;
+    color: $ink-soft;
+  }
+
+  // Scene breaks: hide the rule itself, show a small printer's flourish.
+  hr {
+    border: 0;
+    height: 1.4em;
+    margin: 1.8em 0;
+    position: relative;
+
+    &::after {
+      content: '\2042'; // ⁂ asterism — a classic section-break ornament
+      display: block;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 1.1rem;
+      letter-spacing: 0.4em;
+      color: $muted;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// The report chapter (Chapter 1) — deliberately, visibly different
+// ---------------------------------------------------------------------------
+
+.chapter--report .chapter-title {
+  font-family: $mono;
+  font-size: 1.35rem;
+  letter-spacing: 0.02em;
+}
+
+.report-sheet {
+  background: $paper-report;
+  border: 1px solid $rule;
+  box-shadow: 0 1px 0 rgba($ink, 0.03), 0 12px 30px -20px rgba($ink, 0.35);
+  border-radius: 2px;
+  padding: 2.25rem 2rem;
+}
+
+.report-body {
+  font-family: $mono;
+  font-size: 0.92rem;
+  line-height: 1.85;
+  color: $ink;
+
+  p {
+    margin: 0 0 1em;
+    text-indent: 0;
+  }
+
+  strong { font-weight: 600; }
+
+  em {
+    display: block;
+    margin-top: 1.4em;
+    padding-top: 1em;
+    border-top: 1px dashed $rule;
+    color: $ink-soft;
+    font-style: italic;
+    font-size: 0.85rem;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px dashed $rule;
+    margin: 1.4em 0;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Chapter navigation footer
+// ---------------------------------------------------------------------------
+
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 3.5rem 0 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $rule;
+  font-family: $serif;
+  font-size: 0.95rem;
+}
+
+.chapter-nav__toc {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.75rem;
+  color: $muted;
+  text-decoration: none;
+
+  &:hover { color: $accent; }
+}
+
+.chapter-nav__prev,
+.chapter-nav__next {
+  text-decoration: none;
+  color: $ink;
+
+  &:hover { color: $accent; }
+}
+
+// ---------------------------------------------------------------------------
+// Small screens
+// ---------------------------------------------------------------------------
+
+@media (max-width: 480px) {
+  body { font-size: 1.05rem; }
+  .home-title { font-size: 2.1rem; }
+  .chapter-title { font-size: 1.5rem; }
+  .report-sheet { padding: 1.5rem 1.25rem; }
+}

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="chapter chapter--report">
+  <p class="chapter-label">Chapter {{ page.chapter_number }}</p>
+  <h1 class="chapter-title">{{ page.title }}</h1>
+
+  <div class="report-sheet">
+    <div class="report-body">
+      {{ content }}
+    </div>
+  </div>
+
+  {% include chapter-nav.html %}
+</article>

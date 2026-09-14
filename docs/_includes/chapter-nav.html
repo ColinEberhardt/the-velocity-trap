@@ -1,0 +1,15 @@
+<nav class="chapter-nav" aria-label="Chapter navigation">
+  {% if page.prev %}
+    <a class="chapter-nav__prev" href="{{ page.prev | relative_url }}">&larr; Previous</a>
+  {% else %}
+    <span class="chapter-nav__spacer"></span>
+  {% endif %}
+
+  <a class="chapter-nav__toc" href="{{ '/' | relative_url }}">Contents</a>
+
+  {% if page.next %}
+    <a class="chapter-nav__next" href="{{ page.next | relative_url }}">Next &rarr;</a>
+  {% else %}
+    <span class="chapter-nav__spacer"></span>
+  {% endif %}
+</nav>
