@@ -16,18 +16,8 @@ Storytelling is a great medium for communicating and understanding change. That'
 
 ## Read the book
 
-📖 **[Read The Velocity Trap online](docs/)** — or browse the [manuscript](manuscript/) directly as plain markdown.
+📖 **[Read The Velocity Trap online](https://colineberhardt.github.io/the-velocity-trap/)** — or browse the [manuscript](manuscript/) directly as plain markdown.
 
 ## How it was made
 
 This novella was drafted almost entirely by AI, working from Colin's own ideas, source material, and editorial direction. [`process.md`](process.md) walks through how that actually happened, step by step, with links to the working documents in [`resources/`](resources/).
-
-## Repository structure
-
-```
-README.md        this file
-process.md       how the novella was written, step by step
-manuscript/       the novella itself, as plain markdown chapters
-docs/             the Jekyll site that publishes manuscript/ to GitHub Pages
-resources/        working documents from the writing process (themes, characters, plan, etc.)
-```
