@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "The Sentence"
-chapter_number: 9
-permalink: "/chapters/09/"
-prev: "/chapters/08/"
-next: "/chapters/10/"
----
+# Chapter 9 — The Sentence
 
 Marcus didn't want to use Fleming.
 

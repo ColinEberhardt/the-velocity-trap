@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Thursday"
-chapter_number: 20
-permalink: "/chapters/20/"
-prev: "/chapters/19/"
-next: "/chapters/21/"
----
+# Chapter 20 — Thursday
 
 There were two chairs against the wall by the door of the large boardroom when Maya and Ruth arrived at ten to nine. Maya looked at them, then at the long table where the directors' name cards had been set out, and then at Pell's assistant, a young man with a clipboard.
 

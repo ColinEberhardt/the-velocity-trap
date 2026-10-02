@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Six Days"
-chapter_number: 15
-permalink: "/chapters/15/"
-prev: "/chapters/14/"
-next: "/chapters/16/"
----
+# Chapter 15 — Six Days
 
 In the taxi to Paddington, Tariq sat with his laptop clutched on his knees as if it might escape. Maya read the last document Kalu had sent her that morning, the one she'd asked for on Wednesday and half hoped wouldn't arrive.
 

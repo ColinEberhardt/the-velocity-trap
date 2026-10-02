@@ -1,8 +1,8 @@
 # The Velocity Trap — site
 
-A minimal Jekyll site for reading the manuscript in [`../manuscript/`](../manuscript/) as a book, rather than as loose markdown files. Chapter 1 is deliberately styled as an incident report (monospace); every other chapter uses a book-like serif layout with a small printer's flourish (⁂) marking scene breaks.
+A minimal Jekyll site for reading the manuscript in [`../manuscript-v2/`](../manuscript-v2/) as a book, rather than as loose markdown files. Every chapter uses a book-like serif layout with a small printer's flourish (⁂) marking scene breaks. Chapter 1's system-log excerpts render as small monospace panels. The older `report` layout, used for v1's incident-report chapter 1, is still available but no chapter uses it now.
 
-Chapter content here is generated from `../manuscript/chapter-*.md` — the editorial/draft notes at the top of each manuscript file are stripped out, and the title/chapter number are pulled into front matter. If you redraft a chapter in `../manuscript/`, re-run the same conversion to update `_chapters/` (or just hand-edit the file in `_chapters/` directly if that's easier — the two aren't automatically kept in sync).
+Chapter content here is generated from `../manuscript-v2/chapter-*.md`. The `# Chapter N — Title` heading is stripped, and the title and chapter number are pulled into front matter. `chapter-00.md` (the author's note) is hand-written here and isn't generated. If you redraft a chapter in `../manuscript-v2/`, re-run the same conversion to update `_chapters/` (or just hand-edit the file in `_chapters/` directly if that's easier — the two aren't automatically kept in sync).
 
 ## Preview locally
 

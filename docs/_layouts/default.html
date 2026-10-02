@@ -35,8 +35,10 @@
     {{ content }}
   </main>
 
+  {% if site.footer_note %}
   <footer class="site-footer">
     <p>{{ site.footer_note }}</p>
   </footer>
+  {% endif %}
 </body>
 </html>

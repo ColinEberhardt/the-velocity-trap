@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "The Shape of Things"
-chapter_number: 11
-permalink: "/chapters/11/"
-prev: "/chapters/10/"
-next: "/chapters/12/"
----
+# Chapter 11 — The Shape of Things
 
 Tariq Farouk sat at the end of a row of desks on the platform team's side of the floor, half-hidden behind two monitors and a large potted fern that had clearly been there longer than anyone else. He was in his late thirties, slight and quiet, in a faded T-shirt and a fleece. His laptop lid had a single sticker on it, a small hand-drawn broom with the word `sweep` underneath in lowercase. He looked up as they approached with the expression of a man who had been expecting a knock on the door for some time.
 

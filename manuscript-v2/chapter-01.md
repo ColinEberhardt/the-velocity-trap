@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "23:47"
-chapter_number: 1
-permalink: "/chapters/01/"
-prev: "/prologue/"
-next: "/chapters/02/"
----
+# Chapter 1 — 23:47
 
 ```
 2026-02-23 23:47:02.114  INFO  lab-ingest   Result received  accession=KG-2602-88341  test=K+  value=7.2 mmol/L  flag=CRITICAL

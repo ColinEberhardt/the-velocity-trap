@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Escalation, Again"
-chapter_number: 21
-permalink: "/chapters/21/"
-prev: "/chapters/20/"
-next: "/chapters/22/"
----
+# Chapter 21 — Escalation, Again
 
 They rebuilt Escalation first.
 

@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "What Got Rewarded"
-chapter_number: 18
-permalink: "/chapters/18/"
-prev: "/chapters/17/"
-next: "/chapters/19/"
----
+# Chapter 18 — What Got Rewarded
 
 The platform logs showed that every weekday for the last nine months, a single Clinical Platform account had started between six and eight agent sessions at around eleven at night. At about ten past six each morning, the same account began reviewing what they'd produced.
 

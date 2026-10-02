@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Item Three of Seven"
-chapter_number: 13
-permalink: "/chapters/13/"
-prev: "/chapters/12/"
-next: "/chapters/14/"
----
+# Chapter 13 — Item Three of Seven
 
 At half past three, Marcus put a sheet of paper face down on the desk in front of Maya and set his phone's stopwatch running.
 

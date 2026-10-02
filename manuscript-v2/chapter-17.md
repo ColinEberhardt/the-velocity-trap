@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Reading Isn't Doing"
-chapter_number: 17
-permalink: "/chapters/17/"
-prev: "/chapters/16/"
-next: "/chapters/18/"
----
+# Chapter 17 — Reading Isn't Doing
 
 The lantern over the door in the Clerkenwell mews was lit, and the cobbles were wet again. Inside it was as warm and small as before. The same eight stools stood at the same scrubbed counter. Aiko looked up from her board as they came in, and Yuki bowed and went back to whatever he was doing to a pan of rice.
 

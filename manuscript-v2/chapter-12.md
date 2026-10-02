@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Kick the Tyres"
-chapter_number: 12
-permalink: "/chapters/12/"
-prev: "/chapters/11/"
-next: "/chapters/13/"
----
+# Chapter 12 — Kick the Tyres
 
 On Thursday morning, before King's Cross, Maya went to Kingsgate.
 

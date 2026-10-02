@@ -124,6 +124,20 @@ Chapters 7–23 are still unwritten.
 
 **Full-manuscript consistency pass (2026-09-11):** read all 24 chapters against each other for plot/character/timeline consistency. Fixed: the "nine days" motif had drifted into direct self-contradiction in several places once the story's own explicit countdown (11→9→6→4 days remaining) moved past it — tightened chapters 11, 14, 16, 17, 18 (×2), 19, 20; a real misattribution in chapter 16 (Felix's budget approval, established in ch10, was wrongly given to Josh, with a mismatched date — fixed both); a confusing "your predecessor" line in chapter 16 (Felix isn't Maya's predecessor) — reworded. Everything else checked out clean: patient details, PR #4471, the skill name/edit history, spend figures, all character names/titles, Sam's tenure, Ruth's eleven-month timeline. Separately fixed chapter 20's board resolution — see below.
 
+**Second draft (v2, 2026-10-01) — see `../manuscript-v2/`.** A complete fresh draft of all 24 chapters, written from `resources/` only, without reading v1. It follows the §4b beat sheet chapter for chapter and treats the §5 fix notes as requirements. Total length is about 49,000 words, against the 45,000 target (v1 was about 22,000). The story bible is `../manuscript-v2/drafting-notes.md`.
+
+Points where v2 differs from v1 in invented detail rather than structure:
+- Chapter 1 is a cold open on the night ward, cut with Escalation's own log lines.
+- Ch7: Marcus's "how do you know?" query turns up two earlier merged-record near-misses since January.
+- Ch10: the Q2 cost cut moved the skill to a smaller-context "economy" tier, so the agent never saw the config file. This is a direct theme-2 → incident link.
+- Ch13: the warning appears in both the generated wiki docs and the PR description.
+- Ch14: Tariq benchmarks the original `sweep` skill against the current fork on 12 trap cases.
+- Ch16: Maya confesses the Halden/Telford backstory to Marcus.
+- Ch21: the pilot includes the ch1 night nurse, Helen Marsh, as its clinical member, and catches four stranded safety alerts.
+- Ch23: Tariq's software for one is an allotment tool for his father (a deliberate echo of 旬).
+
+One continuity pass has been done by an independent reviewer and its fixes applied. v2 has not yet been compared against v1 or read end to end by Colin.
+
 ## 6. Revision (structural/developmental edit)
 
 *(TBD)*

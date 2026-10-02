@@ -248,6 +248,23 @@ main {
     color: $ink-soft;
   }
 
+  // System log excerpts (e.g. Chapter 1's cold open): a small monospace
+  // panel on the report paper, scrolling sideways rather than wrapping.
+  pre {
+    background: $paper-report;
+    border: 1px solid $rule;
+    border-radius: 2px;
+    padding: 0.9rem 1rem;
+    margin: 1.6em 0;
+    overflow-x: auto;
+    font-family: $mono;
+    font-size: 0.72rem;
+    line-height: 1.6;
+    color: $ink-soft;
+  }
+
+  pre code { font-family: inherit; background: none; padding: 0; }
+
   // Scene breaks: hide the rule itself, show a small printer's flourish.
   hr {
     border: 0;

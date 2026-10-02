@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "The Story They Tell"
-chapter_number: 22
-permalink: "/chapters/22/"
-prev: "/chapters/21/"
-next: "/chapters/23/"
----
+# Chapter 22 — The Story They Tell
 
 The interview ran in the *Financial Times* on a Saturday in late May, across most of a page, under a photograph of Deborah Ashworth standing in the atrium at Kingsgate in a dark suit, looking calm and slightly grave.
 

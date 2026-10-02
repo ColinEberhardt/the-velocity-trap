@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "In Season"
-chapter_number: 23
-permalink: "/chapters/23/"
-prev: "/chapters/22/"
-next: "/chapters/24/"
----
+# Chapter 23 — In Season
 
 Tariq's father's allotment was in Walthamstow, at the end of a long row of plots behind a railway line. On the first Sunday in June it was a riot of green: bean poles, netted brassicas, a water butt with a dragonfly sitting on its rim, and a shed painted a startling shade of turquoise.
 

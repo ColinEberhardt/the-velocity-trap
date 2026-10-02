@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Grief"
-chapter_number: 19
-permalink: "/chapters/19/"
-prev: "/chapters/18/"
-next: "/chapters/20/"
----
+# Chapter 19 — Grief
 
 Josh forwarded the email at twelve minutes past seven on Wednesday morning, with one line of his own above it: *I haven't replied. I don't know what to say. Can you?*
 

@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "How Do You Know That?"
-chapter_number: 7
-permalink: "/chapters/07/"
-prev: "/chapters/06/"
-next: "/chapters/08/"
----
+# Chapter 7 — How Do You Know That?
 
 "You sound tired," Lucia said on Sunday.
 

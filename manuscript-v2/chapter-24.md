@@ -1,10 +1,4 @@
----
-layout: chapter
-title: "Five Things"
-chapter_number: 24
-permalink: "/chapters/24/"
-prev: "/chapters/23/"
----
+# Chapter 24 — Five Things
 
 In January, eleven months after the night on Ward 4B, Priya Shah was given her first solo investigation.
 

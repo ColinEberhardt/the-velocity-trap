@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Sweep"
-chapter_number: 14
-permalink: "/chapters/14/"
-prev: "/chapters/13/"
-next: "/chapters/15/"
----
+# Chapter 14 — Sweep
 
 "Where did `legacy-simplify` come from?" Marcus asked.
 

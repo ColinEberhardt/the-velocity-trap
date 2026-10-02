@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "The Fixer"
-chapter_number: 2
-permalink: "/chapters/02/"
-prev: "/chapters/01/"
-next: "/chapters/03/"
----
+# Chapter 2 — The Fixer
 
 Maya Reyes was halfway through telling Priya why her report was too long when her phone rang.
 

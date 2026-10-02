@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Clinical Platform"
-chapter_number: 4
-permalink: "/chapters/04/"
-prev: "/chapters/03/"
-next: "/chapters/05/"
----
+# Chapter 4 — Clinical Platform
 
 Josh wanted to give her the numbers first. Maya let him. She was sizing him up the way she'd sized up Felix, by watching what he reached for when he was frightened.
 

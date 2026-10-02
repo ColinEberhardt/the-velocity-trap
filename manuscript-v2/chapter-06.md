@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Too Much Ground"
-chapter_number: 6
-permalink: "/chapters/06/"
-prev: "/chapters/05/"
-next: "/chapters/07/"
----
+# Chapter 6 — Too Much Ground
 
 Maya got home to her flat in Kentish Town at half past eight. She ate toast standing at the kitchen counter, the way she did when a case had got hold of her, and opened her laptop on the counter beside the plate.
 

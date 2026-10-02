@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Shun"
-chapter_number: 8
-permalink: "/chapters/08/"
-prev: "/chapters/07/"
-next: "/chapters/09/"
----
+# Chapter 8 — Shun
 
 The address was a mews off a side street in Clerkenwell. Maya walked past it twice before she found it. It was a narrow cobbled lane between a locksmith and a shuttered print shop, and halfway down it a single paper lantern hung over a plain wooden door. There was no sign. The lantern had one character brushed on it in black ink: 旬.
 

@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "Following the Money"
-chapter_number: 10
-permalink: "/chapters/10/"
-prev: "/chapters/09/"
-next: "/chapters/11/"
----
+# Chapter 10 — Following the Money
 
 "Every investigation I've ever done," Marcus said, "eventually turns out to be about money. Not always in the obvious way. But somebody, somewhere, made a decision because something cost less, or because something else would cost more, and nobody wrote down the trade."
 

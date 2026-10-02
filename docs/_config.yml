@@ -4,11 +4,10 @@ description: >-
   A business fable for the AI age, in the tradition of The Phoenix Project —
   an investigator is called in after a routine piece of software quietly
   fails, and finds a lot more waiting underneath it.
-footer_note: "Draft manuscript — not for distribution."
 
-# ~21,900 words of prose at 250 words/minute. Update by hand if the
+# ~49,000 words of prose (manuscript-v2) at 250 words/minute. Update by hand if the
 # manuscript's length changes materially — not computed automatically.
-reading_time: "About 1 hour 30 minutes to read"
+reading_time: "About 3 hours 15 minutes to read"
 
 # We ship fully custom layouts/CSS — explicitly disable the default theme
 # GitHub Pages otherwise assumes (jekyll-theme-primer) so it doesn't add

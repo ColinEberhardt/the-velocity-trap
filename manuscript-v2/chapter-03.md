@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "The Assistant"
-chapter_number: 3
-permalink: "/chapters/03/"
-prev: "/chapters/02/"
-next: "/chapters/04/"
----
+# Chapter 3 — The Assistant
 
 Meridian Digital lived in a converted printworks behind King's Cross, three floors of exposed brick, standing desks and huge screens. It looked like a place where things got built, and it was deliberately unlike the hospital group that paid for it. On the ground floor there was a café with a barista and a wall of framed press cuttings. MERIDIAN LAUNCHES UK'S FIRST AI TRIAGE ASSISTANT AT SCALE. HEALTHCARE'S QUIET REVOLUTION. Maya counted nine before Felix Adeyemi came down the stairs two at a time to meet her.
 

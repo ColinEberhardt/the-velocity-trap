@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "R-117"
-chapter_number: 5
-permalink: "/chapters/05/"
-prev: "/chapters/04/"
-next: "/chapters/06/"
----
+# Chapter 5 — R-117
 
 Ruth Okafor didn't look up until Maya was standing right beside her desk, and even then she finished the sentence she was writing first.
 

@@ -1,11 +1,4 @@
----
-layout: chapter
-title: "The Board"
-chapter_number: 16
-permalink: "/chapters/16/"
-prev: "/chapters/15/"
-next: "/chapters/17/"
----
+# Chapter 16 — The Board
 
 The emergency session of Meridian Health Group's board was held at nine o'clock on Monday morning in the large boardroom on the twelfth floor. Six people were in the room and four on the screen at the far end, their faces in small rectangles of varying quality. One was clearly in a hotel room. Another was in a car.
 
