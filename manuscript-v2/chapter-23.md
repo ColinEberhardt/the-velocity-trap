@@ -103,8 +103,8 @@ At the end, over tea, Maya told Aiko about Ruth's experiment with the summariser
 
 Aiko considered this while she wiped her knife.
 
-"No," she said. "*Every time* is too many to think about. Nobody can give their whole attention to *every time*. You'd go mad." She put the knife down and picked up the last small dish of the evening, a single sweet pink strawberry on a dark plate, and set it in front of Maya. "It means *this* one. Only ever this one. And then the next one is *this* one too."
+"No," she said. "If you tell yourself you'll give everything your full attention, every time, forever, you'll have failed by Tuesday. Nobody can do that." She put the knife down. "*Ichigo ichie* is smaller. It means this bowl, tonight, with these people. It will never happen again in exactly this way, so you give this one your whole attention. Then you think about the next one when it's in front of you." She picked up the last small dish of the evening, a single sweet pink strawberry on a dark plate, and set it in front of Maya. "Your friend isn't reading every paper there will ever be. She's reading this month's, properly. Next month somebody else reads next month's. That's how it can be done."
 
 She went back to her end of the counter.
 
-"Eat it while it's this one," she said.
+"Eat it now," she said. "Tomorrow it won't be this good."

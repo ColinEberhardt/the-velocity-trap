@@ -5,6 +5,15 @@ description: >-
   an investigator is called in after a routine piece of software quietly
   fails, and finds a lot more waiting underneath it.
 
+# Front-page blurb (Markdown, may run to several paragraphs). The shorter
+# `description` above is still used for search and social-card metadata.
+blurb: |
+  A business fable for the AI age, in the tradition of *The Phoenix Project*.
+
+  A critical blood result goes nowhere, and a doctor's pager stays silent all night. A junior engineer read every line of the change, and still didn't know what he'd deleted. A senior engineer wrote the warning down eleven months earlier, and was moved off the team for it. An entire engineering floor ships faster than ever, and quietly suspects it no longer understands its own systems.
+
+  And in an eight-seat restaurant in Clerkenwell, a chef who once ran four kitchens already knows why.
+
 # ~49,000 words of prose (manuscript-v2) at 250 words/minute. Update by hand if the
 # manuscript's length changes materially — not computed automatically.
 reading_time: "About 3 hours 15 minutes to read"

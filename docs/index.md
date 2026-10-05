@@ -9,7 +9,7 @@ title: Contents
   <img class="home-graphic" src="{{ '/assets/images/graphic.png' | relative_url }}" alt="">
 
   <div class="home-blurb">
-    <p>{{ site.description }}</p>
+    {{ site.blurb | default: site.description | markdownify }}
   </div>
 
   {% if site.reading_time %}<p class="home-reading-time">{{ site.reading_time }}</p>{% endif %}
